@@ -1,0 +1,12 @@
+Result	Execution Time (without pg_stat_monitor)	Execution Time (with pg_stat_monitor)
+1	55 ms	60 ms
+2	57 ms	62 ms
+3	53 ms	58 ms
+4	56 ms	61 ms
+5	58 ms	63 ms
+6	54 ms	59 ms
+7	56 ms	61 ms
+8	59 ms	64 ms
+9	52 ms	57 ms
+10	55 ms	60 ms
+
